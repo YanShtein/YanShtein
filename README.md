@@ -3,8 +3,7 @@
 <p align="center"><a href="https://www.linkedin.com/in/yana-brushtein-41a98619b" rel="nofollow"><img src="https://img.shields.io/badge/-Me on LINKEDIN-blue" style="max-width: 100%;">
 </a></p>
   
-I'm working as a technical support in a local college.
-
+IT Help Desk Support & technician in a local college.
 
 <p align="left"> Currently learning at the freeCodeCamp site. </p>
-<p align="left"> Finished JavaScript Algorithms and Data Structures, and now on my way to the next chapter - Front End Development Libraries. </p>
+<p align="left"> --> Finished JavaScript Algorithms and Data Structures, next --> Front End Development Libraries. </p>
