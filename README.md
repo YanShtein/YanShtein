@@ -6,7 +6,8 @@ Currently learning at the freeCodeCamp site.
 Finished JavaScript Algorithms and Data Structures, and now on my way to the next chapter - Front End Development Libraries.
 
 Checkout my Linkdin  
-<img src="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-linkedin" viewBox="0 0 16 16">
 
- :)
+<a href="https://www.linkedin.com/in/yana-brushtein-41a98619b" rel="nofollow"><img src="https://img.shields.io/badge/-Linkedin-blue" style="max-width: 100%;">
+</a>
+
 https://www.linkedin.com/in/yana-brushtein-41a98619b
