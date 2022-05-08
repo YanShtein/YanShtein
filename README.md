@@ -5,7 +5,7 @@
   
 I'm working as a technical support in a local college.
 
-Currently learning at the freeCodeCamp site.
+Currently learning at the freeCodeCamp site. &nbsp;&nbsp;
 Finished JavaScript Algorithms and Data Structures, and now on my way to the next chapter - Front End Development Libraries.
 
 </p>
