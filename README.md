@@ -6,7 +6,7 @@
 <br/>
 <a href="https://www.linkedin.com/in/yanshtein" rel="nofollow"><img src="https://img.shields.io/badge/-Me on LINKEDIN-blue" style="max-width: 100%;"></a>
 <br/>
-<a href="https://codepen.io/yansht/" rel="nofollow"><img src="https://img.shields.io/badge/-CodePen projects-green" style="max-width: 100%;"></a>
+<a href="https://codepen.io/yansht/" rel="nofollow"><img src="https://img.shields.io/badge/-CodePen projects-red" style="max-width: 100%;"></a>
 </p>
   
 IT Help Desk Support & technician in a local college.
