@@ -11,7 +11,7 @@
   
 IT Help Desk Support & technician in a local college.
 
-Being learning web front-end on my own for a few months, currently enrolled in a coursera.org course: 
+Currently, learning front-end web dev on my own for a few months, and enrolled in a course offered by Coursera:
 
 https://www.coursera.org/professional-certificates/meta-front-end-developer
 
