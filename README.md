@@ -11,7 +11,8 @@
   
 IT Help Desk Support & technician in a local college.
 
-Currently, learning front-end web dev on my own for a few months, and enrolled in a course offered by Coursera:
+This past few months, my focus is on front-end web development, particularly React library.
+In addition, Iam enrolled in a Frond-End dev course offered by Coursera:
 
 > <a href="https://www.coursera.org/professional-certificates/meta-front-end-developer/"> -> Meta Front-End Developer Professional Certificate <- </a>
 
