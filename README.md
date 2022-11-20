@@ -17,6 +17,7 @@ This past few months, my focus is on front-end web development, particularly Rea
 
 > <a href="https://www.coursera.org/professional-certificates/meta-front-end-developer/"> -> Meta Front-End Developer Professional Certificate <- </a>
 
+  <b><hr>A bit about me...</hr></b>
   
 My coding journey began when I took a Python-For-Everybody course offered by Coursera.
   
