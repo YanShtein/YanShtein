@@ -13,7 +13,7 @@ IT Help Desk Support & technician in a local college.
 
 This past few months, my focus is on front-end web development, particularly React library.
 
-  In addition, Iam enrolled in a Frond-End dev course offered by Coursera:
+  In addition, Iam enrolled in a Front-End dev course offered by Coursera:
 
 > <a href="https://www.coursera.org/professional-certificates/meta-front-end-developer/"> -> Meta Front-End Developer Professional Certificate <- </a>
 
@@ -22,7 +22,7 @@ This past few months, my focus is on front-end web development, particularly Rea
 My coding journey began when I took a Python-For-Everybody course offered by Coursera.
   
 The course was very challenging for me as I never actually written code before.
-The course also introduced frond end languages such as CSS, HTML & a bit of JS.
+The course also introduced front end languages such as CSS, HTML & a bit of JS.
 By the end of this course, I knew I want to continue this journey by finishing Django course, which is a python based web framework.
   
 Finishing Django, I decided to take the front end path, mastering JS, CSS, & HTML.
