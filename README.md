@@ -17,3 +17,13 @@ This past few months, my focus is on front-end web development, particularly Rea
 
 > <a href="https://www.coursera.org/professional-certificates/meta-front-end-developer/"> -> Meta Front-End Developer Professional Certificate <- </a>
 
+  
+My coding journey began when I took a Python-For-Everybody course offered by Coursera.
+  
+The course was very challenging for me as I never actually written code before.
+The course also introduced frond end languages such ass CSS, HTML & a bit of JS.
+By the end of this course, I knew I want to continue this journey by finishing Django course, which is a python based web framework.
+  
+Finishing Django, I decided to take the front end path, mastering JS, CSS, & HTML.
+  
+Currently, I am working on my own small projects to master React & JS.
