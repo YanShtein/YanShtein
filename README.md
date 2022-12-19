@@ -27,4 +27,4 @@ By the end of this course, I knew I want to continue this journey by finishing D
   
 Finishing Django, I decided to take the front end path, mastering JS, CSS, & HTML.
   
-Currently, I am working on my own small projects to master React & JS.
+Currently, I am working on my own small projects to learn React & other libraries.
